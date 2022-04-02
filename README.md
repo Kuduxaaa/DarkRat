@@ -104,3 +104,4 @@ Finished. spider.exe is created, Backtest your payload on a VM.
 
 
 ## Password: passwd
+<img src="https://fr3d.hk/blog/bl-content/uploads/pages/55ec38fec50258b5f97b749d5a28bb8a/panel.png" />
